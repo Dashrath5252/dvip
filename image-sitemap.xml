@@ -2,73 +2,308 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     
-    <!-- Image Sitemap Entry 1 -->
+    <!-- ====================== -->
+    <!-- HOME PAGE IMAGES -->
+    <!-- ====================== -->
     <url>
-        <loc>https://ffbet-apk.com/</loc>
+        <loc>https://dvip-apk.com/</loc>
         
-        <!-- Main App Icon -->
+        <!-- Logo Images -->
         <image:image>
-            <image:loc>https://ffbet-apk.com/ffbeticon512.webp</image:loc>
-            <image:title>ffbet Game APK Download 2025 Latest Version</image:title>
-            <image:caption>Free download ffbet Game APK for Android - Get ₹500 welcome bonus - Entertainment gaming platform with slots, poker, fishing, and roulette games</image:caption>
-            <image:geo_location>India</image:geo_location>
-            <image:license>https://ffbet-apk.com/license</image:license>
+            <image:loc>https://dvip-apk.com/dvipicon180.webp</image:loc>
+            <image:title>DVIP Game Logo - Download Free APK</image:title>
+            <image:caption>Official DVIP Game logo for Android APK download</image:caption>
+            <image:license>https://dvip-apk.com/license</image:license>
         </image:image>
         
-        <!-- Game Screenshot 1 -->
         <image:image>
-            <image:loc>https://ffbet-apk.com/ffbet1.webp</image:loc>
-            <image:title>ffbet Slot Machine Game Free Download</image:title>
-            <image:caption>ffbet Game apk- Spin and win with free bonus coins - Entertainment only</image:caption>
+            <image:loc>https://dvip-apk.com/dvipicon512.webp</image:loc>
+            <image:title>DVIP Game HD Icon - Get ₹500 Bonus</image:title>
+            <image:caption>High quality app icon for DVIP Game entertainment platform</image:caption>
+            <image:license>https://dvip-apk.com/license</image:license>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/dvipicon48.webp</image:loc>
+            <image:title>DVIP Game Small Icon</image:title>
+            <image:caption>48x48 pixel icon for DVIP Game mobile application</image:caption>
+        </image:image>
+        
+        <!-- Gallery Images with Responsive Versions -->
+        <image:image>
+            <image:loc>https://dvip-apk.com/dvip1.webp</image:loc>
+            <image:title>DVIP Game Slot Machine Screenshot</image:title>
+            <image:caption>Exciting slot machine gameplay in DVIP Game app - Win big bonuses</image:caption>
             <image:geo_location>India</image:geo_location>
-            <image:license>https://ffbet-apk.com/license</image:license>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/images/generated/dvip1-300.webp</image:loc>
+            <image:title>DVIP Game Mobile View - 300px</image:title>
+            <image:caption>Mobile optimized slot game interface for Android devices</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/images/generated/dvip1-768.webp</image:loc>
+            <image:title>DVIP Game Tablet View - 768px</image:title>
+            <image:caption>Tablet friendly gaming interface with HD graphics</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/images/generated/dvip1-1200.webp</image:loc>
+            <image:title>DVIP Game HD Screenshot - 1200px</image:title>
+            <image:caption>High definition game screenshot with bonus features</image:caption>
         </image:image>
         
         <!-- Game Screenshot 2 -->
         <image:image>
-            <image:loc>https://ffbet-apk.com/ffbet2.webp</image:loc>
-            <image:title>ffbet Poker Game Multiplayer APK</image:title>
-            <image:caption>ffbet Free bonus play and win huge win- - Free download</image:caption>
-            <image:geo_location>India</image:geo_location>
-            <image:license>https://ffbet-apk.com/license</image:license>
+            <image:loc>https://dvip-apk.com/dvip2.webp</image:loc>
+            <image:title>DVIP Poker Game - Live Table</image:title>
+            <image:caption>Real-time poker gaming experience with live players</image:caption>
+            <image:geo_location>Mumbai, India</image:geo_location>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/images/generated/dvip2-300.webp</image:loc>
+            <image:title>Poker Game Mobile - 300px</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/images/generated/dvip2-768.webp</image:loc>
+            <image:title>Poker Game Tablet - 768px</image:title>
         </image:image>
         
         <!-- Game Screenshot 3 -->
         <image:image>
-            <image:loc>https://ffbet-apk.com/ffbet3.webp</image:loc>
-            <image:title>ffbet Game Bonus </image:title>
-            <image:caption>ffbet game high win free bonuses- Free Android game download</image:caption>
-            <image:geo_location>India</image:geo_location>
-            <image:license>https://ffbet-apk.com/license</image:license>
+            <image:loc>https://dvip-apk.com/dvip3.webp</image:loc>
+            <image:title>Fishing Game - Underwater Adventure</image:title>
+            <image:caption>Catch fish and win rewards in DVIP fishing game</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/images/generated/dvip3-300.webp</image:loc>
+            <image:title>Fishing Game Mobile</image:title>
         </image:image>
         
         <!-- Game Screenshot 4 -->
         <image:image>
-            <image:loc>https://ffbet-apk.com/ffbet4.webp</image:loc>
-            <image:title>ffbet Game APK all games</image:title>
-            <image:caption>ffbet Game APK - all jili, evolution,pg and more games free play and win huge</image:caption>
-            <image:geo_location>India</image:geo_location>
-            <image:license>https://ffbet-apk.com/license</image:license>
-        </image:image>
-        
-        <!-- Favicon Images -->
-        <image:image>
-            <image:loc>https://ffbet-apk.com/ffbeticon180.webp</image:loc>
-            <image:title>ffbet Game Icon 180x180</image:title>
-            <image:caption>ffbet Game APK icon for Android app - Medium size for mobile devices</image:caption>
-            <image:geo_location>India</image:geo_location>
+            <image:loc>https://dvip-apk.com/dvip4.webp</image:loc>
+            <image:title>Roulette Game - Casino Experience</image:title>
+            <image:caption>Virtual roulette wheel with betting options</image:caption>
+            <image:geo_location>Goa, India</image:geo_location>
         </image:image>
         
         <image:image>
-            <image:loc>https://ffbet-apk.com/ffbeticon48.webp</image:loc>
-            <image:title>ffbet Game Small Icon 48x48</image:title>
-            <image:caption>ffbet Game APK small icon for Android notification and quick settings</image:caption>
+            <image:loc>https://dvip-apk.com/images/generated/dvip4-1200.webp</image:loc>
+            <image:title>Roulette HD - 1200px</image:title>
         </image:image>
-
+        
+    </url>
+    
+    <!-- ====================== -->
+    <!-- DOWNLOAD PAGE IMAGES -->
+    <!-- ====================== -->
+    <url>
+        <loc>https://dvip-apk.com/download/</loc>
+        
         <image:image>
-            <image:loc>https://ffbet-apk.com/favicon.ico</image:loc>
-            <image:title>ffbet Game favicon  48x48</image:title>
-            <image:caption>ffbet Game APK small icon for website favicon</image:caption>
+            <image:loc>https://dvip-apk.com/download-banner.webp</image:loc>
+            <image:title>Download DVIP Game APK - Android & iOS</image:title>
+            <image:caption>Free download DVIP Game for mobile devices - Get ₹500 welcome bonus</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/play-store-badge.webp</image:loc>
+            <image:title>Get it on Google Play</image:title>
+            <image:caption>Download DVIP Game from Google Play Store</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/app-store-badge.webp</image:loc>
+            <image:title>Download on App Store</image:title>
+            <image:caption>Get DVIP Game from Apple App Store</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/direct-apk-download.webp</image:loc>
+            <image:title>Direct APK Download</image:title>
+            <image:caption>Manual APK installation guide for Android</image:caption>
+        </image:image>
+        
+    </url>
+    
+    <!-- ====================== -->
+    <!-- GAME CATEGORIES IMAGES -->
+    <!-- ====================== -->
+    <url>
+        <loc>https://dvip-apk.com/categories/</loc>
+        
+        <!-- Slot Games -->
+        <image:image>
+            <image:loc>https://dvip-apk.com/categories/slots-banner.webp</image:loc>
+            <image:title>Slot Machine Games Collection</image:title>
+            <image:caption>100+ slot games with different themes and bonus rounds</image:caption>
+        </image:image>
+        
+        <!-- Poker Games -->
+        <image:image>
+            <image:loc>https://dvip-apk.com/categories/poker-banner.webp</image:loc>
+            <image:title>Poker Card Games</image:title>
+            <image:caption>Texas Hold'em, Omaha, and other poker variants</image:caption>
+        </image:image>
+        
+        <!-- Fishing Games -->
+        <image:image>
+            <image:loc>https://dvip-apk.com/categories/fishing-banner.webp</image:loc>
+            <image:title>Fishing Arcade Games</image:title>
+            <image:caption>Underwater fishing adventure with rewards</image:caption>
+        </image:image>
+        
+        <!-- Roulette Games -->
+        <image:image>
+            <image:loc>https://dvip-apk.com/categories/roulette-banner.webp</image:loc>
+            <image:title>Roulette Casino Games</image:title>
+            <image:caption>European, American, and French roulette versions</image:caption>
+        </image:image>
+        
+        <!-- Live Casino -->
+        <image:image>
+            <image:loc>https://dvip-apk.com/categories/live-casino-banner.webp</image:loc>
+            <image:title>Live Dealer Games</image:title>
+            <image:caption>Real-time casino experience with live dealers</image:caption>
+        </image:image>
+        
+    </url>
+    
+    <!-- ====================== -->
+    <!-- INDIVIDUAL GAME PAGES -->
+    <!-- ====================== -->
+    
+    <!-- Slot Games -->
+    <url>
+        <loc>https://dvip-apk.com/games/fortune-tiger/</loc>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/games/fortune-tiger/thumbnail.webp</image:loc>
+            <image:title>Fortune Tiger Slot Game</image:title>
+            <image:caption>Chinese themed slot game with tiger symbols and free spins</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/games/fortune-tiger/screenshot1.webp</image:loc>
+            <image:title>Fortune Tiger Gameplay</image:title>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/games/fortune-tiger/screenshot2.webp</image:loc>
+            <image:title>Fortune Tiger Bonus Round</image:title>
+        </image:image>
+        
+    </url>
+    
+    <url>
+        <loc>https://dvip-apk.com/games/aviator/</loc>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/games/aviator/thumbnail.webp</image:loc>
+            <image:title>Aviator Prediction Game</image:title>
+            <image:caption>Crash game where plane flies higher for bigger multipliers</image:caption>
+        </image:image>
+        
+    </url>
+    
+    <!-- Poker Games -->
+    <url>
+        <loc>https://dvip-apk.com/games/texas-holdem/</loc>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/games/texas-holdem/thumbnail.webp</image:loc>
+            <image:title>Texas Hold'em Poker</image:title>
+            <image:caption>Classic poker game with tournaments and cash tables</image:caption>
+        </image:image>
+        
+    </url>
+    
+    <!-- ====================== -->
+    <!-- BONUS & OFFERS PAGES -->
+    <!-- ====================== -->
+    <url>
+        <loc>https://dvip-apk.com/bonus/</loc>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/bonus/welcome-bonus.webp</image:loc>
+            <image:title>₹500 Welcome Bonus - DVIP Game</image:title>
+            <image:caption>Get ₹500 free bonus on first deposit in DVIP Game</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/bonus/daily-rewards.webp</image:loc>
+            <image:title>Daily Login Rewards</image:title>
+            <image:caption>Daily bonus for regular players</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/bonus/referral-bonus.webp</image:loc>
+            <image:title>Refer & Earn Bonus</image:title>
+            <image:caption>Invite friends and get bonus rewards</image:caption>
+        </image:image>
+        
+    </url>
+    
+    <!-- ====================== -->
+    <!-- HOW TO PLAY GUIDE -->
+    <!-- ====================== -->
+    <url>
+        <loc>https://dvip-apk.com/how-to-play/</loc>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/guides/install-android.webp</image:loc>
+            <image:title>How to Install on Android</image:title>
+            <image:caption>Step by step guide to install DVIP Game APK</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/guides/install-ios.webp</image:loc>
+            <image:title>How to Install on iPhone</image:title>
+            <image:caption>Installation guide for iOS devices</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/guides/deposit-guide.webp</image:loc>
+            <image:title>How to Deposit Money</image:title>
+            <image:caption>Payment methods and deposit process</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/guides/withdraw-guide.webp</image:loc>
+            <image:title>How to Withdraw Winnings</image:title>
+            <image:caption>Withdrawal process and time</image:caption>
+        </image:image>
+        
+    </url>
+    
+    <!-- ====================== -->
+    <!-- ABOUT US PAGE -->
+    <!-- ====================== -->
+    <url>
+        <loc>https://dvip-apk.com/about/</loc>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/about/company-logo.webp</image:loc>
+            <image:title>DVIP Game Entertainment Logo</image:title>
+            <image:caption>Official company logo and branding</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/about/team-photo.webp</image:loc>
+            <image:title>DVIP Game Development Team</image:title>
+            <image:caption>Our team of developers and designers</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://dvip-apk.com/about/awards-badges.webp</image:loc>
+            <image:title>Certifications & Awards</image:title>
+            <image:caption>Industry certifications and recognition</image:caption>
         </image:image>
         
     </url>
